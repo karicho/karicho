@@ -1,16 +1,29 @@
-## Hi there 👋
+# Cynthia Karicho
 
-<!--
-**karicho/karicho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Aspiring IT Support Technician | Windows Troubleshooting & Cloud Fundamentals*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Portfolio Note
+
+The projects in this portfolio simulate real help desk and IT support 
+workflows — diagnosing OS issues, resolving network connectivity problems, 
+and administering cloud/M365 environments. Each one reflects the kind of 
+troubleshooting a support technician handles day to day.
+
+---
+
+## Troubleshooting Case Studies
+
+| Project | Proof | Purpose | Stack | Status |
+|---|---|---|---|---|
+| Windows Update Failures | [Repo](https://github.com/karicho/windows-update-troubleshooting) | Diagnose and resolve failed Windows updates | Windows 10/11, CMD, PowerShell | ✅ Complete |
+| DNS Resolution Issues | [Repo](https://github.com/karicho/dns-resolution-troubleshooting) | Fix DNS/connectivity failures on client machines | ipconfig, nslookup, Windows networking | ✅ Complete |
+
+---
+
+## Certifications
+
+- Google IT Support Professional Certificate
+- Azure  Cloud Computing Fundamentals(AZ-900)
+- Microsoft 365 Administrator (in progress — MS-102)
