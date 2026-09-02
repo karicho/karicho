@@ -24,12 +24,7 @@ troubleshooting a support technician handles day to day.
 
 ---
 
-## Certifications
 
-- Google IT Support Professional Certificate
-- Azure  Cloud Computing Fundamentals(AZ-900)
-- Microsoft 365 Administrator (in progress — MS-102)
----
 
 ## Certifications
 
