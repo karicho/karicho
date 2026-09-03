@@ -22,6 +22,7 @@ troubleshooting a support technician handles day to day.
 | DNS Resolution Issues | [Repo](https://github.com/karicho/dns-resolution-troubleshooting) | Fix DNS/connectivity failures on client machines | ipconfig, nslookup, Windows networking | ✅ Complete |
 | HP ENVY x360 Driver & Hardware Troubleshooting | [Repo](YOUR_LINK_HERE) | Diagnose and resolve driver conflicts causing hardware performance issues | Device Manager, Intel Driver & Support Assistant, Windows 11 | ✅ Complete |
 
+| ServiceNow ITSM Case Study | [Repo](https://github.com/karicho/servicenow-itsm-case-study) | End-to-end ITSM lifecycle for a new-hire onboarding scenario — Request, Incident, Problem, Change, Knowledge, CMDB | ServiceNow, ITSM, CMDB | ✅ Complete |
 ---
 
 
